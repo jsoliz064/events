@@ -6,7 +6,7 @@ Este repositorio contiene la solución a la prueba técnica para el puesto de de
 
 La API está desplegada y puede ser probada en vivo en el siguiente enlace:
 
-**[Ver API en Vivo](https://events.solution-services-tech.com)**
+**[Ver API en Vivo](https://events.solution-services-tech.com/api)**
 
 ![Captura de la Interfaz de Swagger UI](./public/img/screenshot.png)
 
